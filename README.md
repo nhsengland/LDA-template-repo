@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-[![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
 
 <!-- page header -->
 <br/>
@@ -46,8 +45,6 @@ This repository holds code for the {PROJECT NAME} {SHORT DESCRIPTION}
 
 <a name="section-1-2"></a>
 ### Built With
-
-[![Python v3.9](https://img.shields.io/badge/python-v3.9-blue.svg)](https://www.python.org/downloads/release/python-3916/)
 - {LIST OF MAIN PACKAGE VERSIONS}
 
 <a name="section-1-3"></a>
