@@ -1,7 +1,3 @@
-<a name="readme-top"></a>
-
-<!-- page header -->
-<br/>
 <div align="center">
     <h2 align="center">{PROJECT NAME}</h2>
     <h3 align="center">London Data Analytics</h3>
