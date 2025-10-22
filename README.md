@@ -40,7 +40,7 @@ This repository holds code for the {PROJECT NAME} {SHORT DESCRIPTION}
 {CONTACT INFO}
 
 ### License
-Unless stated otherwise, the codebase is released under [the MIT Licence](./LICENCE.md). This covers both the codebase and any sample code in the documentation.
+Unless stated otherwise, the codebase is released under [the MIT Licence](./LICENCE.txt). This covers both the codebase and any sample code in the documentation.
 
 See LICENSE for more information.
 
