@@ -15,8 +15,7 @@ This repository holds code for the {PROJECT NAME} {SHORT DESCRIPTION}
 
 ### Project Structure
 
-- The main code is found in the root of the repository (see Usage below for more information)
-- {OTHER REPO STRUCTURE}
+- {REPO STRUCTURE}
 
 ### Built With
 
