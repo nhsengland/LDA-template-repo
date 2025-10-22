@@ -2,7 +2,7 @@
 
 ## Commit hygiene
 
-Please see [here](./COMMIT_CONVENTION.md)
+Please see [here](./COMMIT_CONVENTION.md), which describes how we prefer Git history and commit messages to read.
 
 ## Updating the Changelog
 
