@@ -17,6 +17,7 @@ Include any helpful pointers for the reviewer.
 This pull/merge request meets the following requirements:
 
 - [ ] code runs
+- [ ] [ethicaldevelopments] developments are ethical
 - [ ] developments are secure (no data or notebook output)
 - [ ] you have made proportionate checks that the code works correctly
 - [ ] [minimum usable documentation][agilemodeling] written in the `docs` folder
@@ -24,3 +25,4 @@ This pull/merge request meets the following requirements:
 Comments have been added below around the incomplete checks.
 
 [agilemodeling]: http://agilemodeling.com/essays/documentLate.htm
+[ethicaldevelopments]: https://www.gov.uk/government/publications/data-ethics-framework
