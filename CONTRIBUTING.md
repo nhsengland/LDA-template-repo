@@ -2,7 +2,7 @@
 
 ## Commit hygiene
 
-Coming soon...
+Please see [here](./COMMIT_CONVENTION.md)
 
 ## Updating the Changelog
 
