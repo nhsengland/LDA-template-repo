@@ -1,10 +1,5 @@
 # Contributing
 
-## Contents of this file
-
-- [Commit hygiene](#commit-hygiene)
-- [Updating Changelog](#updating-changelog)
-
 ## Commit hygiene
 
 Coming soon...
