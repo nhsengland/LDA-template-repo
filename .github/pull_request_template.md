@@ -17,7 +17,7 @@ Include any helpful pointers for the reviewer.
 This pull/merge request meets the following requirements:
 
 - [ ] code runs
-- [ ] [ethicaldevelopments] developments are ethical
+- [ ] [developments are ethical][ethicaldevelopments]
 - [ ] developments are secure (no data or notebook output)
 - [ ] you have made proportionate checks that the code works correctly
 - [ ] [minimum usable documentation][agilemodeling] written in the `docs` folder
